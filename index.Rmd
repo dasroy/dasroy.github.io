@@ -1,0 +1,32 @@
+---
+title: "Rishi Das Roy"
+output: 
+  html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+::::: {style="display: flex;"}
+<div>
+
+![](asset/Prof_profile.jpeg){width="150"}
+
+</div>
+
+<div>
+
+-   Computational biologist
+-   FAIR information management & visualization
+-   Entrepreneur
+
+# 
+
+</div>
+:::::
+
+Work in progress 👀
