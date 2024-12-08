@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "listing.html",
+    "href": "listing.html",
+    "title": "My blog",
+    "section": "",
+    "text": "It will be first post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\nUnder progress\n\n\n\n\n\nMay 22, 2024\n\n\nRishi Das Roy\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "It will be first post",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "scATACseq.html",
+    "href": "scATACseq.html",
+    "title": "scATACseq",
+    "section": "",
+    "text": "Coming Sooner\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "scRNAseq.html",
+    "href": "scRNAseq.html",
+    "title": "scRNAseq",
+    "section": "",
+    "text": "Coming soon\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rishi Das Roy",
+    "section": "",
+    "text": "Staff scientist at Biodata Analytics Unit in the University of Helsinki. When not exploring data and communicating information, I spend time cycling in summer and playing badminton in winter."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Rishi Das Roy",
+    "section": "",
+    "text": "Staff scientist at Biodata Analytics Unit in the University of Helsinki. When not exploring data and communicating information, I spend time cycling in summer and playing badminton in winter."
+  },
+  {
+    "objectID": "index.html#key-research-interests",
+    "href": "index.html#key-research-interests",
+    "title": "Rishi Das Roy",
+    "section": "Key research interests",
+    "text": "Key research interests\n\nComputational Biology\n\nTranscriptomics at the level of bulk and single cell\nMultiomics\n\nBioconductor package development\nImplementation of FAIR data information\nApplication of machine learning"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Rishi Das Roy",
+    "section": "Teaching",
+    "text": "Teaching\nAt the University of Helsinki\n\nBulk RNAseq\nSingle cell data analysis"
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Rishi Das Roy",
+    "section": "Selected papers",
+    "text": "Selected papers\nCalamari, Z. T., A. Song, E. Cohen, M. Akter, R. Das Roy, O. Hallikas, M. M. Christensen, P. Li, P. Marangoni, J. Jernvall and O. D. Klein (2024). Bank vole genomics links determinate and indeterminate growth of teeth. BMC Genomics 25(1): 1000.\nChristensen, M. M., Hallikas, O., R. Das Roy., Väänänen, V., Stenberg, O. E., Häkkinen, T. J., … & Jernvall, J. (2023). The developmental basis for scaling of mammalian tooth size. PNAS, 120(25), e2300374120\nSulic, Ana-Marija, R. Das Roy, Verdiana Papagno, Qiang Lan, Riikka Saikkonen, Jukka Jernvall, Irma Thesleff, and Marja L. Mikkola. Transcriptomic landscape of early hair follicle and epidermal development. Cell Reports 42, no. 6 (2023).\nR. Das Roy, Outi Hallikas, Mona M Christensen, Elodie Renvoisé, and Jukka Jernvall. 2021. Chromosomal neighbourhoods allow identification of organ specific changes in gene expression, PLoS computational biology, 17: e1008947.\nSee more on google scholars here."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rishi Das Roy",
+    "section": "Education",
+    "text": "Education\nPhD: Biotechnology | Pune University, India | 2008 - 2015\nMaster of Computer Application | Indian Institute of Engineering Science and Technology, Shibpur | 2003 - 2006.\nB.Sc. Physics Honors | University of Calcutta | 1999 - 2002."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Rishi Das Roy",
+    "section": "Experience",
+    "text": "Experience\nUniversity Researcher | University of Helsinki | 2023 – present\nPostdoc | University of Helsinki | 2014 – 2023\nPhD | CSIR-IGIB, Delhi | 2008 – 2013\nLead Engineer | HCLTech | 2006 – 08"
+  }
+]
