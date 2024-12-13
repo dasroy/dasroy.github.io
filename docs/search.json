@@ -75,5 +75,12 @@
     "title": "Rishi Das Roy",
     "section": "Experience",
     "text": "Experience\nUniversity Researcher | University of Helsinki | 2023 – present\nPostdoc | University of Helsinki | 2014 – 2023\nPhD | CSIR-IGIB, Delhi | 2008 – 2013\nLead Engineer | HCLTech | 2006 – 08"
+  },
+  {
+    "objectID": "RNAseq.html",
+    "href": "RNAseq.html",
+    "title": "RNAseq Tutorial: Step by step data analysis",
+    "section": "",
+    "text": "This tutorial employs a pipeline, 4-RNA-seq, based on shell scripting, which has become somewhat outdated in the current era of tools like Nextflow. However, this book remains an excellent resource for understanding each step of RNA-seq data analysis and mastering shell scripting. For improved readability, consider opening the book in a new window.\n\n\n\n\n Back to top"
   }
 ]

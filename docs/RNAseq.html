@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rishi Das Roy</title>
+<title>Rishi Das Roy - RNAseq Tutorial: Step by step data analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,6 +35,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -119,7 +120,7 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -129,7 +130,7 @@ cookieconsent.run({
     <ul class="dropdown-menu" aria-labelledby="nav-menu-omics">    
         <li>
     <a class="dropdown-item" href="./RNAseq.html">
- <span class="dropdown-text">Old style RNAseq analysis</span></a>
+ <span class="dropdown-text">RNAseq Tutorial: Step by step data analysis</span></a>
   </li>  
     </ul>
   </li>
@@ -147,95 +148,36 @@ cookieconsent.run({
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
-  <li><a href="#key-research-interests" id="toc-key-research-interests" class="nav-link" data-scroll-target="#key-research-interests">Key research interests</a></li>
-  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
-  <li><a href="#selected-papers" id="toc-selected-papers" class="nav-link" data-scroll-target="#selected-papers">Selected papers</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
-<div class="quarto-about-trestles content">
-  <div class="about-entity">
-    <img src="media/1.jpeg" class="about-image
-  round " style="height: 17em; width: 17em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Rishi Das Roy</h1>
+<h1 class="title">RNAseq Tutorial: Step by step data analysis</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:rishi.dasroy@helsinki.fi" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://www.linkedin.com/in/rishi-das-roy-80806a7/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text"></span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-
-<section id="bio" class="level2">
-<h2 data-anchor-id="bio">Bio</h2>
-<p>Staff scientist at Biodata Analytics Unit in the University of Helsinki. When not exploring data and communicating information, I spend time cycling in summer and playing badminton in winter.</p>
-<!-- [**Google Analytics**](https://quarto.org/docs/websites/website-tools.html#google-analytics) -->
-</section>
-<section id="key-research-interests" class="level2">
-<h2 data-anchor-id="key-research-interests">Key research interests</h2>
-<ul>
-<li>Computational Biology
-<ul>
-<li>Transcriptomics at the level of bulk and single cell</li>
-<li>Multiomics</li>
-</ul></li>
-<li>Bioconductor package development</li>
-<li>Implementation of FAIR <del>data</del> information</li>
-<li>Application of machine learning</li>
-</ul>
-</section>
-<section id="teaching" class="level2">
-<h2 data-anchor-id="teaching">Teaching</h2>
-<p>At the University of Helsinki</p>
-<ul>
-<li><p>Bulk RNAseq</p></li>
-<li><p>Single cell data analysis</p></li>
-</ul>
-</section>
-<section id="selected-papers" class="level2">
-<h2 data-anchor-id="selected-papers">Selected papers</h2>
-<p>Calamari, Z. T., A. Song, E. Cohen, M. Akter, <strong>R. Das Roy</strong>, O. Hallikas, M. M. Christensen, P. Li, P. Marangoni, J. Jernvall and O. D. Klein (2024). <strong>Bank vole genomics links determinate and indeterminate growth of teeth</strong>. <a href="https://link.springer.com/article/10.1186/s12864-024-10901-2">BMC Genomics 25(1): 1000</a>.</p>
-<p>Christensen, M. M., Hallikas, O., <strong>R. Das Roy</strong>., Väänänen, V., Stenberg, O. E., Häkkinen, T. J., … &amp; Jernvall, J. (2023). <strong>The developmental basis for scaling of mammalian tooth size.</strong> <a href="https://www.pnas.org/doi/full/10.1073/pnas.2300374120">PNAS, 120(25), e2300374120</a></p>
-<p>Sulic, Ana-Marija, <strong>R. Das Roy</strong>, Verdiana Papagno, Qiang Lan, Riikka Saikkonen, Jukka Jernvall, Irma Thesleff, and Marja L. Mikkola. <strong>Transcriptomic landscape of early hair follicle and epidermal development.</strong> <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00654-X">Cell Reports 42, no. 6 (2023).</a></p>
-<p><strong>R. Das Roy</strong>, Outi Hallikas, Mona M Christensen, Elodie Renvoisé, and Jukka Jernvall. 2021. <strong>Chromosomal neighbourhoods allow identification of organ specific changes in gene expression</strong>, <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008947">PLoS computational biology, 17: e1008947.</a></p>
-<p>See more on google scholars <a href="https://scholar.google.com/citations?user=8h8UPGAAAAAJ&amp;hl=en">here</a>.</p>
-</section>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>PhD: Biotechnology | <a href="http://www.unipune.ac.in/">Pune University</a>, India | 2008 - 2015</p>
-<p>Master of Computer Application | <a href="https://www.iiests.ac.in/">Indian Institute of Engineering Science and Technology, Shibpur</a> | 2003 - 2006.</p>
-<p>B.Sc. Physics Honors | <a href="https://www.caluniv.ac.in/">University of Calcutta</a> | 1999 - 2002.</p>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p>University Researcher | <a href="https://www.helsinki.fi/">University of Helsinki</a> | 2023 – present</p>
-<p>Postdoc | <a href="https://www.helsinki.fi/">University of Helsinki</a> | 2014 – 2023</p>
-<p>PhD | <a href="https://www.igib.res.in/">CSIR-IGIB, Delhi</a> | 2008 – 2013</p>
-<p>Lead Engineer | <a href="https://www.hcltech.com/">HCLTech</a> | 2006 – 08</p>
 
 
-</section>
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main></div>
-</div>
- <!-- /main -->
+<p>This tutorial employs a pipeline, 4-RNA-seq, based on shell scripting, which has become somewhat outdated in the current era of tools like Nextflow. However, this book remains an excellent resource for understanding each step of RNA-seq data analysis and mastering shell scripting. For improved readability, consider opening the book in a new <a href="https://vondorishi.github.io/4-RNA-seq/index.html" class="external" target="_blank">window</a>.</p>
+<iframe frameborder="0" scrolling="no" style="overflow:hidden;height:100%" height="100%" width="1000" src="https://vondorishi.github.io/4-RNA-seq/index.html" title="RNAseq tutorial"></iframe>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -400,6 +342,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
