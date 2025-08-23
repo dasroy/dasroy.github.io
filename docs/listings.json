@@ -5,5 +5,11 @@
       "/posts/scATAC_seq.html",
       "/posts/RNAseq.html"
     ]
+  },
+  {
+    "listing": "/outdoor.html",
+    "items": [
+      "/outdoor/jyvaskyla_midsummer.html"
+    ]
   }
 ]
