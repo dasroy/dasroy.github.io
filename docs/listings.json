@@ -2,6 +2,7 @@
   {
     "listing": "/listing.html",
     "items": [
+      "/posts/scVI_reticulate.html",
       "/posts/scATAC_seq.html",
       "/posts/RNAseq.html"
     ]
